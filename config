@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Rishabh-177/roxiler-store-rating-177.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
